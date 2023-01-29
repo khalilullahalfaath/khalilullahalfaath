@@ -4,5 +4,5 @@
 - 💬 Ask me about Machine Learning, Data Structures, and Math
 - 📫 How to reach me: khalilullah.alfaath@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilullahalfaath)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilullahalfaath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilullahalfaath&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilullahalfaath&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
