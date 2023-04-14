@@ -6,5 +6,6 @@ Feel free to reach out if you have any questions or just want to say hi. Let's c
 <br>
 📫 How to reach me: khalilullah.alfaath@gmail.com
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilullahalfaath&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilullahalfaath&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilullahalfaath&count_private=true)](https://github-readme-stats-11km.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilullahalfaath&layout=compact&langs_count=6)](https://github-readme-stats-11km.vercel.app/)
+
