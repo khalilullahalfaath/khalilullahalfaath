@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a passionate developer currently focusing on Artificial Intelligence and Software Engineering. I believe in the power of technology to solve complex problems and make the world a better place. <br>
+I am a passionate developer currently focusing on Artificial Intelligence and Software Engineering specially Backend Development. I believe in the power of technology to solve complex problems and make the world a better place. <br>
 Feel free to reach out if you have any questions or just want to say hi. Let's connect and make amazing things together! <br>
 <br>
 📫 How to reach me: khalilullah.alfaath@gmail.com
