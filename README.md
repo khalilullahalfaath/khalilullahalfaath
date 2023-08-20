@@ -7,7 +7,7 @@ Feel free to reach out if you have any questions or just want to say hi. Let's c
 📫 How to reach me: khalilullah.alfaath@gmail.com
 
 <a href="https://github-readme-stats-11km-git-master-khalilullahalfaath.vercel.app/">
-  <img height=200 align="center" src="https://github-readme-stats-11km-git-master-khalilullahalfaath.vercel.app" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khalilullahalfaath&count_private=true" />
 </a>
 <a href="https://github-readme-stats-11km-git-master-khalilullahalfaath.vercel.app/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilullahalfaath&layout=donut&langs_count=7&size_weight=0.5&count_weight=0.5" />
